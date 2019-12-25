@@ -13,7 +13,7 @@ function Navbar(props) {
       <div className="container">
         <div className="navbar-brand">
           <div className="NavbarComponent__no-classname">
-            <Link to="/">
+            <Link to="/solaremea">
               <img
                 className="NavbarComponent__image image"
                 src={props.logo}
@@ -34,7 +34,7 @@ function Navbar(props) {
           <div className="navbar-end">
             {auth.user && (
               <div className="navbar-item has-dropdown is-hoverable">
-                <Link className="navbar-link" to="/">
+                <Link className="navbar-link" to="/solaremea">
                   Account
                 </Link>
                 <div className="navbar-dropdown is-boxed">
