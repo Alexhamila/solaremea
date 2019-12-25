@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/solaremea/static/css/main.4525d26d.chunk.css",
+    "main.js": "/solaremea/static/js/main.f0a80e20.chunk.js",
+    "main.js.map": "/solaremea/static/js/main.f0a80e20.chunk.js.map",
+    "runtime-main.js": "/solaremea/static/js/runtime-main.3c3779c1.js",
+    "runtime-main.js.map": "/solaremea/static/js/runtime-main.3c3779c1.js.map",
+    "static/js/2.4c10c05d.chunk.js": "/solaremea/static/js/2.4c10c05d.chunk.js",
+    "static/js/2.4c10c05d.chunk.js.map": "/solaremea/static/js/2.4c10c05d.chunk.js.map",
+    "index.html": "/solaremea/index.html",
+    "precache-manifest.dd01e9ef90d961797f5dbb5d987086b7.js": "/solaremea/precache-manifest.dd01e9ef90d961797f5dbb5d987086b7.js",
+    "service-worker.js": "/solaremea/service-worker.js",
+    "static/css/main.4525d26d.chunk.css.map": "/solaremea/static/css/main.4525d26d.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c3779c1.js",
+    "static/js/2.4c10c05d.chunk.js",
+    "static/css/main.4525d26d.chunk.css",
+    "static/js/main.f0a80e20.chunk.js"
+  ]
+}
