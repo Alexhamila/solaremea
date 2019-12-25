@@ -25,7 +25,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy" : "npm run build && sudo cp CNAME build/CNAME",
+    "predeploy" : "npm run build && ROBOCOPY CNAME build/CNAME",
 	"deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
