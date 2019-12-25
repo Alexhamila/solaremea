@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a5861b05b73d46f474cc2f00250c0342",
+    "revision": "00a29c5b1a7b3cb50141f8bf2cfc8bc4",
     "url": "/solaremea/index.html"
   },
   {
-    "revision": "74768b71a2c5fce46f13",
+    "revision": "f29f602dd6d9a2afb44d",
     "url": "/solaremea/static/css/main.4525d26d.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/solaremea/static/js/2.4c10c05d.chunk.js"
   },
   {
-    "revision": "74768b71a2c5fce46f13",
-    "url": "/solaremea/static/js/main.845c81e7.chunk.js"
+    "revision": "f29f602dd6d9a2afb44d",
+    "url": "/solaremea/static/js/main.c817d838.chunk.js"
   },
   {
     "revision": "06dc4dfe674cef526731",

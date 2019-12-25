@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/solaremea/static/css/main.4525d26d.chunk.css",
-    "main.js": "/solaremea/static/js/main.845c81e7.chunk.js",
-    "main.js.map": "/solaremea/static/js/main.845c81e7.chunk.js.map",
+    "main.js": "/solaremea/static/js/main.c817d838.chunk.js",
+    "main.js.map": "/solaremea/static/js/main.c817d838.chunk.js.map",
     "runtime-main.js": "/solaremea/static/js/runtime-main.3c3779c1.js",
     "runtime-main.js.map": "/solaremea/static/js/runtime-main.3c3779c1.js.map",
     "static/js/2.4c10c05d.chunk.js": "/solaremea/static/js/2.4c10c05d.chunk.js",
     "static/js/2.4c10c05d.chunk.js.map": "/solaremea/static/js/2.4c10c05d.chunk.js.map",
     "index.html": "/solaremea/index.html",
-    "precache-manifest.695afab5b5f3b99400fe3d4f09dfd871.js": "/solaremea/precache-manifest.695afab5b5f3b99400fe3d4f09dfd871.js",
+    "precache-manifest.f710b626d9d2a7f90d171429140ac954.js": "/solaremea/precache-manifest.f710b626d9d2a7f90d171429140ac954.js",
     "service-worker.js": "/solaremea/service-worker.js",
     "static/css/main.4525d26d.chunk.css.map": "/solaremea/static/css/main.4525d26d.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.3c3779c1.js",
     "static/js/2.4c10c05d.chunk.js",
     "static/css/main.4525d26d.chunk.css",
-    "static/js/main.845c81e7.chunk.js"
+    "static/js/main.c817d838.chunk.js"
   ]
 }
