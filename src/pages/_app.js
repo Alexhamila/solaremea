@@ -9,7 +9,7 @@ import SigninPage from "./signin";
 import SignupPage from "./signup";
 import ForgotpassPage from "./forgotpass";
 import ChangepassPage from "./changepass";
-import { Switch, Route, Router } from "./../util/router.js";
+import { Switch, Route, HashRouter } from "./../util/router.js";
 import Footer from "./../components/Footer";
 import "./../util/analytics.js";
 import { ProvideAuth } from "./../util/auth.js";
@@ -17,7 +17,7 @@ import { ProvideAuth } from "./../util/auth.js";
 function App(props) {
   return (
     <ProvideAuth>
-      <Router>
+      <HashRouter>
         <>
           <Navbar color="white" spaced={true} logo="./logo.svg" />
 
@@ -65,7 +65,7 @@ function App(props) {
             copyright="© 2019 Solaremea"
           />
         </>
-      </Router>
+      </HashRouter>
     </ProvideAuth>
   );
 }
