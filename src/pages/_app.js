@@ -22,7 +22,7 @@ function App(props) {
           <Navbar color="white" spaced={true} logo="./logo.svg" />
 
           <Switch>
-            <Route exact path="/solaremea" component={IndexPage} />
+            <Route exact path="/" component={IndexPage} />
 
             <Route exact path="/about" component={AboutPage} />
 

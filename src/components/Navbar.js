@@ -34,7 +34,7 @@ function Navbar(props) {
           <div className="navbar-end">
             {auth.user && (
               <div className="navbar-item has-dropdown is-hoverable">
-                <Link className="navbar-link" to="/solaremea">
+                <Link className="navbar-link" to="/">
                   Account
                 </Link>
                 <div className="navbar-dropdown is-boxed">
