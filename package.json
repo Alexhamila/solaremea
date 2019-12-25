@@ -25,7 +25,7 @@
     "react-scripts": "3.2.0"
   },
   "scripts": {
-    "predeploy" : "npm run build && ROBOCOPY CNAME.txt build/CNAME.txt",
+    "predeploy" : "npm run build && ROBOCOPY C:\Users\Administrator\Desktop\solaremea C:\Users\Administrator\Desktop\solaremea\build CNAME.txt",
 	"deploy" : "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
