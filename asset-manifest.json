@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/solaremea.net/static/css/main.4525d26d.chunk.css",
-    "main.js": "/solaremea.net/static/js/main.45a66342.chunk.js",
-    "main.js.map": "/solaremea.net/static/js/main.45a66342.chunk.js.map",
-    "runtime-main.js": "/solaremea.net/static/js/runtime-main.0fc32365.js",
-    "runtime-main.js.map": "/solaremea.net/static/js/runtime-main.0fc32365.js.map",
-    "static/js/2.a21eae05.chunk.js": "/solaremea.net/static/js/2.a21eae05.chunk.js",
-    "static/js/2.a21eae05.chunk.js.map": "/solaremea.net/static/js/2.a21eae05.chunk.js.map",
-    "index.html": "/solaremea.net/index.html",
-    "precache-manifest.1a67ad1ef4ee584234ddc41da4a4b36d.js": "/solaremea.net/precache-manifest.1a67ad1ef4ee584234ddc41da4a4b36d.js",
-    "service-worker.js": "/solaremea.net/service-worker.js",
-    "static/css/main.4525d26d.chunk.css.map": "/solaremea.net/static/css/main.4525d26d.chunk.css.map"
+    "main.css": "/static/css/main.4525d26d.chunk.css",
+    "main.js": "/static/js/main.aabebb09.chunk.js",
+    "main.js.map": "/static/js/main.aabebb09.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f40384de.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f40384de.js.map",
+    "static/js/2.1465c1f6.chunk.js": "/static/js/2.1465c1f6.chunk.js",
+    "static/js/2.1465c1f6.chunk.js.map": "/static/js/2.1465c1f6.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.85ef878393defe5b5f41a375466a9b7b.js": "/precache-manifest.85ef878393defe5b5f41a375466a9b7b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4525d26d.chunk.css.map": "/static/css/main.4525d26d.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.0fc32365.js",
-    "static/js/2.a21eae05.chunk.js",
+    "static/js/runtime-main.f40384de.js",
+    "static/js/2.1465c1f6.chunk.js",
     "static/css/main.4525d26d.chunk.css",
-    "static/js/main.45a66342.chunk.js"
+    "static/js/main.aabebb09.chunk.js"
   ]
 }
